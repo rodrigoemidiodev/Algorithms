@@ -3,6 +3,6 @@ This repository contains the code for Algorithms Course Unit of 2024/2025 Academ
 
 | Folder             | Description |
 | :--------------------- | :---------------------------------------------------------------------------------------- |
-| Lab Classes               | Resolution of the practical exercises from the classes | 
+| Programming               | Resolution of the programming exercises from the classes | 
 
 
